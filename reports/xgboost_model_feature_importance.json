@@ -1,0 +1,10 @@
+[
+    {
+        "Feature":"climate_var_1",
+        "Importance":0.6848721504
+    },
+    {
+        "Feature":"climate_var_2",
+        "Importance":0.3151279092
+    }
+]
