@@ -7,8 +7,3 @@ __pycache__/
 venv/
 env/
 
-# Ignore model files (Optional)
-models/*.pkl
-
-# Ignore dataset (Optional)
-data/*.csv
